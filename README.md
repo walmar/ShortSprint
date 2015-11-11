@@ -40,5 +40,3 @@
 * [Forlix](http://forums.alliedmods.net/member.php?u=45536 "AlliedModders - View Profile: Forlix"), who helped me a lot with scripting.
 
 The development of this SourceMod plugin already began in 2009. It was improved over the years while being in use on just a few CS:S Public Soccer Servers.
-
-If you like my work, please support me with a donation through PayPal in [Euro](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S4AX8LYGD24M6 "Donate through PayPal in Euro") or [US-Dollar](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CH5NFE2GMCS6N "Donate through PayPal in US-Dollar").
