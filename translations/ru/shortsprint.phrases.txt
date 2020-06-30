@@ -1,0 +1,72 @@
+// ShortSprint Translation File (EN) v1.20
+
+"Phrases"
+{
+	"CHAT_MSG_ANNOUNCEMENT"
+	{
+		"#format"		"{1:s}"
+		"ru"			"Напишите {1} в чат для помощи."
+	}
+
+	"CHAT_MSG_SPRINTUSING"
+	{
+		"ru"			"Вы сейчас используете спринт!"
+	}
+
+	"CHAT_MSG_SPRINTENDING"
+	{
+		"ru"			"Действие спринта окончилось."
+	}
+
+	"CHAT_MSG_SPRINTABLE"
+	{
+		"ru"			"Вы можете использовать спринт."
+	}
+
+	"INFOPANEL_TEXT_BUTTON"
+	{
+		"ru"			"Нажмите вашу клавишу-'использовать'\n(по умолчанию: E) чтобы спринтовать!"
+	}
+
+	"INFOPANEL_TEXT_NOBUTTON"
+	{
+		"#format"		"{1:s}"
+		"ru"			"Напишите {1} в чат, чтобы спринтовать!"
+	}
+
+	"INFOPANEL_TEXT_SETTINGS"
+	{
+		"ru"			"Настройки"
+	}
+
+	"INFOPANEL_TEXT_MESSAGES"
+	{
+		"ru"			"Сообщения"
+	}
+
+	"INFOPANEL_TEXT_PROGRESSBAR"
+	{
+		"ru"			"Индикатор процесса"
+	}
+
+	"INFOPANEL_TEXT_SOUND"
+	{
+		"ru"			"Звук"
+	}
+
+	"INFOPANEL_TEXT_BIND"
+	{
+		"#format"		"{1:s}"
+		"ru"			"Команда спринта может\nбыть привязана к свободной клавише\nиспользуя консоль.\n \nНапример:\nbind \"q\" \"say {1}\""
+	}
+
+	"INFOPANEL_EXIT"
+	{
+		"ru"			"Выход"
+	}
+
+	"HINT_TEXT_MISENTRY"
+	{
+		"ru"			"По крайней мере одно поле должно оставаться активным!"
+	}
+}
