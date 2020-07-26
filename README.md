@@ -5,11 +5,11 @@
 * The plugin announce itself to players in chat once after connect or every round-start.
 * Typing the shortsprint command in chat displays the ShortSprint menu with settings and help for players.
 * Every player can enable/disable individually the sprint chat messages, the sprint sound and the cool down time progress bar. The settings will be stored in sourcemod/data/sqlite/clientprefs-sqlite.sq3 on the server.
-* Multilanguage support: English and German phrase-files are already included.
+* Multilanguage support: English, German and Russian phrase-files are already included.
 
 #### Installation instructions
 * Download the plugin and the translation files.
-* Copy the files to the correct folders of [SourceMod](http://www.sourcemod.net "SourceMod: Half-Life 2 Scripting").
+* Copy the files to the correct folders of [SourceMod](https://www.sourcemod.net "SourceMod: Half-Life 2 Scripting").
 
 #### Configuration ConVars
 * sm_shortsprint_enable (default 1)
@@ -34,9 +34,10 @@
     * Initial release.
 
 #### Thanks to
-* [Shaman](http://forums.alliedmods.net/member.php?u=23292 "AlliedModders - View Profile: Shaman"), who released a sprint plugin for SourceMod in 2007 called Sprint: Source.
-* [blade81](http://forums.alliedmods.net/member.php?u=15144 "AlliedModders - View Profile: blade81"), who used a unreleased plugin with progress bar and sprint sound on the Gamerz Paradise CS:S soccer servers in 2009.
-* [SWAT_88](http://forums.alliedmods.net/member.php?u=34532 "AlliedModders - View Profile: SWAT_88"), who released the SM Parachute plugin with added +use button support in 2008.
-* [Forlix](http://forums.alliedmods.net/member.php?u=45536 "AlliedModders - View Profile: Forlix"), who helped me a lot with scripting.
+* [Shaman](https://forums.alliedmods.net/member.php?u=23292 "AlliedModders - View Profile: Shaman"), who released a sprint plugin for SourceMod in 2007 called Sprint: Source.
+* [blade81](https://forums.alliedmods.net/member.php?u=15144 "AlliedModders - View Profile: blade81"), who used a unreleased plugin with progress bar and sprint sound on the Gamerz Paradise CS:S soccer servers in 2009.
+* [SWAT_88](https://forums.alliedmods.net/member.php?u=34532 "AlliedModders - View Profile: SWAT_88"), who released the SM Parachute plugin with added +use button support in 2008.
+* [Forlix](https://forums.alliedmods.net/member.php?u=45536 "AlliedModders - View Profile: Forlix"), who helped me a lot with scripting.
+* [Blueberry](https://github.com/walmar/ShortSprint/pull/1 "Russian translation by Blueberryy · Pull Request #1 · walmar/ShortSprint · GitHub"), who contributed the Russian translation.
 
 The development of this SourceMod plugin already began in 2009. It was improved over the years while being in use on just a few CS:S Public Soccer Servers.

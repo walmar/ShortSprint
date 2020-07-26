@@ -1,10 +1,9 @@
-// ShortSprint Translation File (EN) v1.20
+// ShortSprint Translation File (RU) v1.20
 
 "Phrases"
 {
 	"CHAT_MSG_ANNOUNCEMENT"
 	{
-		"#format"		"{1:s}"
 		"ru"			"Напишите {1} в чат для помощи."
 	}
 
@@ -30,7 +29,6 @@
 
 	"INFOPANEL_TEXT_NOBUTTON"
 	{
-		"#format"		"{1:s}"
 		"ru"			"Напишите {1} в чат, чтобы спринтовать!"
 	}
 
@@ -56,7 +54,6 @@
 
 	"INFOPANEL_TEXT_BIND"
 	{
-		"#format"		"{1:s}"
 		"ru"			"Команда спринта может\nбыть привязана к свободной клавише\nиспользуя консоль.\n \nНапример:\nbind \"q\" \"say {1}\""
 	}
 
